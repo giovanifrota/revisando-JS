@@ -1,0 +1,26 @@
+é uma estrutura de dados fundamental em computação, usada para armazenar uma coleção ordenada de elementos, geralmente do mesmo tipo, em um único local de memória
+	
+	
+O que é um Set?
+Um Set é uma estrutura de dados que guarda valores únicos. Pense nele como uma coleção onde nenhum valor pode se repetir, diferente dos arrays onde você pode ter elementos iguais.
+
+
+Quando usar um Set?
+Para remover duplicatas de um array.
+
+Para verificar rapidamente se um valor já existe no conjunto.
+
+O que é um Map?
+Um Map é uma estrutura que permite armazenar pares de chave e valor, semelhante a um objeto, mas com algumas vantagens importantes:
+
+Pode usar qualquer tipo de dado como chave (inclusive objetos).
+
+Mantém a ordem em que os itens foram inseridos.
+
+
+Quando usar um Map?
+Para armazenar informações associadas a uma chave específica.
+
+Quando precisar manter a ordem de inserção.
+
+Para usar chaves que não sejam strings.

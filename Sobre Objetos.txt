@@ -1,0 +1,2 @@
+O que são Objetos:
+Um Objeto é uma estrutura que agrupa dados relacionados em formato de pares: chave e valor
